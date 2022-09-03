@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portofolio/static/css/main.a74f7686.css",
+    "main.js": "/Portofolio/static/js/main.0b37fae9.js",
+    "static/media/coding1.webm": "/Portofolio/static/media/coding1.a7d25956bfca06841319.webm",
+    "static/media/coding1.mp4": "/Portofolio/static/media/coding1.d95aaf4fab3777056551.mp4",
+    "static/media/sushi.png": "/Portofolio/static/media/sushi.34d6ce1924f873bfc263.png",
+    "static/media/Cosmos.png": "/Portofolio/static/media/Cosmos.93420d143491f8d5a953.png",
+    "static/media/Relvise.png": "/Portofolio/static/media/Relvise.d12191cf8d1a350870e5.png",
+    "static/media/mail.gif": "/Portofolio/static/media/mail.ab03c2f18a68af39e6ab.gif",
+    "static/media/pizza.png": "/Portofolio/static/media/pizza.e053365cb7fe23147e6b.png",
+    "static/media/Unknown-Drone.png": "/Portofolio/static/media/Unknown-Drone.be2738fa30fdb461ebb8.png",
+    "static/media/Huddle.png": "/Portofolio/static/media/Huddle.d657874f9b3b8297f1b7.png",
+    "static/media/avatar.jpg": "/Portofolio/static/media/avatar.95dd41615408f8212540.jpg",
+    "static/media/todo-app.png": "/Portofolio/static/media/todo-app.f53baffd693ec6507332.png",
+    "static/media/rest-countries.png": "/Portofolio/static/media/rest-countries.10744ade23a66754541e.png",
+    "static/media/react-app.png": "/Portofolio/static/media/react-app.b9cb98b11c41c0cc089d.png",
+    "static/media/instagram.png": "/Portofolio/static/media/instagram.167e1cbb326867efc79a.png",
+    "static/media/keeper.png": "/Portofolio/static/media/keeper.4e0b26862d7dd4e0c5cd.png",
+    "static/media/react.png": "/Portofolio/static/media/react.ab2e6e9267848c93e5ff.png",
+    "index.html": "/Portofolio/index.html",
+    "main.a74f7686.css.map": "/Portofolio/static/css/main.a74f7686.css.map",
+    "main.0b37fae9.js.map": "/Portofolio/static/js/main.0b37fae9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a74f7686.css",
+    "static/js/main.0b37fae9.js"
+  ]
+}
