@@ -1,0 +1,28 @@
+.__container {
+  width: 1366px;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.heading {
+  font-weight: 800;
+  font-size: 50px;
+  line-height: 26px;
+  color: #42446e;
+
+  @media (max-width: 767px) {
+    font-size: 40px;
+  }
+}
+
+.subtitle {
+  font-weight: 400;
+  font-size: 25px;
+  padding: 49px 10px 0 10px;
+  line-height: 26px;
+  color: #666666;
+
+  @media (max-width: 565px) {
+    font-size: 18px;
+  }
+}

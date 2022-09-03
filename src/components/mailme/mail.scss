@@ -1,0 +1,12 @@
+.contact-me {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+
+  &__button {
+    img {
+      width: 100px;
+      height: 100px;
+    }
+  }
+}
