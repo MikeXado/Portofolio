@@ -5,6 +5,7 @@ import About from "./sections/about/About";
 import Portofolio from "./sections/portofolio/Portofolio";
 import Faq from "./sections/faq/Faq";
 import Mail from "./components/mailme/Mail";
+
 function App() {
   return (
     <div className="App">

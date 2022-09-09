@@ -1,27 +1,27 @@
 import boostrap from "../assets/bootstrap.png";
-import cosmos from "../assets/Cosmos.png";
+import cosmos from "../assets/projects/Cosmos.png";
 import css from "../assets/css.png";
 import docker from "../assets/docker.png";
 import facebook from "../assets/facebook.png";
 import git from "../assets/git.png";
 import github from "../assets/github.png";
 import html from "../assets/html.png";
-import Huddle from "../assets/Huddle.png";
+import Huddle from "../assets/projects/Hoddle.png";
 import js from "../assets/js.png";
-import keeper from "../assets/keeper.png";
-import pizza from "../assets/pizza.png";
-import weather from "../assets/react-app.png";
+import keeper from "../assets/projects/Notes.png";
+import pizza from "../assets/projects/pizaa.png";
+import weather from "../assets/projects/WeatherApp.png";
 import reactPng from "../assets/react.png";
-import Relvise from "../assets/Relvise.png";
+import Relvise from "../assets/projects/Relvise.png";
 import restCountries from "../assets/rest-countries.png";
 import sassPng from "../assets/sass.png";
-import todoAppPng from "../assets/todo-app.png";
+import todoAppPng from "../assets/projects/todoApp.png";
 import ubuntu from "../assets/ubuntu.png";
-import drone from "../assets/Unknown-Drone.png";
+import drone from "../assets/projects/Drone.png";
 import vscode from "../assets/vscode.png";
 import wordpress from "../assets/wordpress.png";
 import instagram from "../assets/instagram.png";
-import sushi from "../assets/sushi.png";
+import sushi from "../assets/projects/sushi.png";
 export const LeftTech = [
   {
     id: 1,
@@ -132,6 +132,36 @@ export const matchSkill = [
 
 export const projects = [
   {
+    id: "romsem",
+    img: sushi,
+    title: "Sushi Market",
+    desc: "This is a simple Sushi internet shop. The purpose of this is to obtain more knowledge of working with redux and react-router-dom",
+    tech: [
+      {
+        id: 1,
+        name: "JSX",
+      },
+      {
+        id: 2,
+        name: "SCSS",
+      },
+      {
+        id: 3,
+        name: "REACT",
+      },
+      {
+        id: 4,
+        name: "ROUTER DOM",
+      },
+      {
+        id: 5,
+        name: "REDUX",
+      },
+    ],
+    livePreview: "https://mikexado.github.io/Sushi-Market/",
+    code: "https://github.com/MikeXado/Sushi-Market",
+  },
+  {
     id: "cosmos",
     img: cosmos,
     title: "Cosmos",
@@ -152,6 +182,37 @@ export const projects = [
     ],
     livePreview: "https://mikexado.github.io/Cosmos/",
     code: "https://github.com/MikeXado/Cosmos",
+  },
+  {
+    id: "pizza",
+    img: pizza,
+    title: "Pizza App",
+    desc: "This is a simple e-commerce app created with react. The purpose of this app is to show how i can handle global states using Redux.",
+    tech: [
+      {
+        id: 1,
+        name: "JSX",
+      },
+      {
+        id: 2,
+        name: "SCSS",
+      },
+      {
+        id: 3,
+        name: "REACT",
+      },
+      {
+        id: 4,
+        name: "REDUX",
+      },
+      {
+        id: 5,
+        name: "ROUTER DOM",
+      },
+    ],
+
+    livePreview: "https://mikexado.github.io/React-Pizza/#/",
+    code: "https://github.com/MikeXado/React-Pizza",
   },
   {
     id: "drone",
@@ -283,37 +344,6 @@ export const projects = [
     code: "https://github.com/MikeXado/Keeper-App",
   },
   {
-    id: "pizza",
-    img: pizza,
-    title: "Pizza App",
-    desc: "This is a simple e-commerce app created with react. The purpose of this app is to show how i can handle global states using Redux.",
-    tech: [
-      {
-        id: 1,
-        name: "JSX",
-      },
-      {
-        id: 2,
-        name: "SCSS",
-      },
-      {
-        id: 3,
-        name: "REACT",
-      },
-      {
-        id: 4,
-        name: "REDUX",
-      },
-      {
-        id: 5,
-        name: "ROUTER DOM",
-      },
-    ],
-
-    livePreview: "https://mikexado.github.io/React-Pizza/#/",
-    code: "https://github.com/MikeXado/React-Pizza",
-  },
-  {
     id: "countries",
     img: restCountries,
     title: "Rest Countries",
@@ -338,36 +368,6 @@ export const projects = [
     ],
     livePreview: "https://mikexado.github.io/rest-countries/#/",
     code: "https://github.com/MikeXado/rest-countries",
-  },
-  {
-    id: "romsem",
-    img: sushi,
-    title: "Sushi Market",
-    desc: "This is a simple Sushi internet shop. The purpose of this is to obtain more knowledge of working with redux and react-router-dom",
-    tech: [
-      {
-        id: 1,
-        name: "JSX",
-      },
-      {
-        id: 2,
-        name: "SCSS",
-      },
-      {
-        id: 3,
-        name: "REACT",
-      },
-      {
-        id: 4,
-        name: "ROUTER DOM",
-      },
-      {
-        id: 5,
-        name: "REDUX",
-      },
-    ],
-    livePreview: "https://mikexado.github.io/Sushi-Market/",
-    code: "https://github.com/MikeXado/Sushi-Market",
   },
 ];
 
