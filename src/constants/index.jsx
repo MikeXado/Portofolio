@@ -132,7 +132,7 @@ export const matchSkill = [
 ];
 
 export const projects = [
-   {
+  {
     id: "chat",
     img: chat,
     title: "Chat App",
@@ -159,8 +159,9 @@ export const projects = [
         name: "REDUX",
       },
       {
-        id:6,
-        name:"Firebase",
+        id: 6,
+        name: "Firebase",
+      },
     ],
     livePreview: "https://mikexado.github.io/Chat-App/",
     code: "https://github.com/MikeXado/Chat-App",
