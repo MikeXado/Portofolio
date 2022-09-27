@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portofolio/static/css/main.677ebd79.css",
-    "main.js": "/Portofolio/static/js/main.6708d3d5.js",
+    "main.js": "/Portofolio/static/js/main.7de19b69.js",
     "static/media/coding1.webm": "/Portofolio/static/media/coding1.a7d25956bfca06841319.webm",
     "static/media/coding1.mp4": "/Portofolio/static/media/coding1.d95aaf4fab3777056551.mp4",
     "static/media/Relvise.png": "/Portofolio/static/media/Relvise.45f910a1ea886b086e33.png",
@@ -15,15 +15,16 @@
     "static/media/WeatherApp.png": "/Portofolio/static/media/WeatherApp.71968c18d11d990c5c45.png",
     "static/media/Notes.png": "/Portofolio/static/media/Notes.1eaa0339297774b7a0dc.png",
     "static/media/avatar.jpg": "/Portofolio/static/media/avatar.95dd41615408f8212540.jpg",
+    "static/media/chat.png": "/Portofolio/static/media/chat.71a53230c3d98df10de8.png",
     "static/media/rest-countries.png": "/Portofolio/static/media/rest-countries.10744ade23a66754541e.png",
     "static/media/instagram.png": "/Portofolio/static/media/instagram.167e1cbb326867efc79a.png",
     "static/media/react.png": "/Portofolio/static/media/react.ab2e6e9267848c93e5ff.png",
     "index.html": "/Portofolio/index.html",
     "main.677ebd79.css.map": "/Portofolio/static/css/main.677ebd79.css.map",
-    "main.6708d3d5.js.map": "/Portofolio/static/js/main.6708d3d5.js.map"
+    "main.7de19b69.js.map": "/Portofolio/static/js/main.7de19b69.js.map"
   },
   "entrypoints": [
     "static/css/main.677ebd79.css",
-    "static/js/main.6708d3d5.js"
+    "static/js/main.7de19b69.js"
   ]
 }
