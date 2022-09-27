@@ -22,6 +22,7 @@ import vscode from "../assets/vscode.png";
 import wordpress from "../assets/wordpress.png";
 import instagram from "../assets/instagram.png";
 import sushi from "../assets/projects/sushi.png";
+import chat from "../assets/projects/chat.png";
 export const LeftTech = [
   {
     id: 1,
@@ -131,6 +132,39 @@ export const matchSkill = [
 ];
 
 export const projects = [
+   {
+    id: "chat",
+    img: chat,
+    title: "Chat App",
+    desc: "This is a chat app , created using Firebase + React Js . This project shows up the ability of working with cloud databases and authentification",
+    tech: [
+      {
+        id: 1,
+        name: "JSX",
+      },
+      {
+        id: 2,
+        name: "SCSS",
+      },
+      {
+        id: 3,
+        name: "REACT",
+      },
+      {
+        id: 4,
+        name: "ROUTER DOM",
+      },
+      {
+        id: 5,
+        name: "REDUX",
+      },
+      {
+        id:6,
+        name:"Firebase",
+    ],
+    livePreview: "https://mikexado.github.io/Chat-App/",
+    code: "https://github.com/MikeXado/Chat-App",
+  },
   {
     id: "romsem",
     img: sushi,
