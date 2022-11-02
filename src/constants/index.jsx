@@ -170,11 +170,11 @@ export const projects = [
     id: "romsem",
     img: sushi,
     title: "Sushi Market",
-    desc: "This is a simple Sushi internet shop. The purpose of this is to obtain more knowledge of working with redux and react-router-dom",
+    desc: "E-commerce website that prove knowledge of Remix , Firebase and React Js",
     tech: [
       {
         id: 1,
-        name: "JSX",
+        name: "FIREBASE",
       },
       {
         id: 2,
@@ -186,15 +186,15 @@ export const projects = [
       },
       {
         id: 4,
-        name: "ROUTER DOM",
+        name: "REMIX",
       },
       {
         id: 5,
         name: "REDUX",
       },
     ],
-    livePreview: "https://mikexado.github.io/Sushi-Market/",
-    code: "https://github.com/MikeXado/Sushi-Market",
+    livePreview: "https://sushi-market-remix.netlify.app/",
+    code: "https://github.com/MikeXado/Sushi-Market-remix",
   },
   {
     id: "cosmos",
