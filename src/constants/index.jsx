@@ -169,7 +169,7 @@ export const projects = [
   {
     id: "romsem",
     img: sushi,
-    title: "Sushi Market",
+    title: "Sushi Market-REMIX",
     desc: "E-commerce website that prove knowledge of Remix , Firebase and React Js",
     tech: [
       {
